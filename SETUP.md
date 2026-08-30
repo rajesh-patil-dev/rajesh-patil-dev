@@ -1,36 +1,40 @@
 # How to publish this profile README
 
 GitHub shows a special repository's `README.md` at the top of your profile page.
-That repository must be **named exactly like your GitHub username**.
+That repository must be **named exactly like your GitHub username** —
+here: `rajesh-patil-dev/rajesh-patil-dev`.
 
-## 1. Replace the placeholders
+## 1. Optional: finish the Connect section
 
-Edit `README.md` and replace:
+In `README.md`, replace or delete these in the **Connect** section:
 
 | Placeholder | Replace with |
 | --- | --- |
-| `YOUR_GITHUB_USERNAME` | your exact GitHub username (appears in the stats/badge/counter URLs) |
 | `YOUR_LINKEDIN_HANDLE` | your LinkedIn vanity handle, or delete the LinkedIn badge line |
 | `YOUR_PORTFOLIO_URL` | your portfolio/site URL, or delete the Portfolio badge line |
 
-## 2. Create the repo on GitHub
+The `rajesh-patil-dev` username is already filled in everywhere else
+(stats widgets and the profile-view counter).
 
-- Go to https://github.com/new
-- **Repository name:** your username (e.g. if you are `octocat`, name it `octocat`)
-- Visibility: **Public**
-- Do **not** add a README from the form (this folder already has one)
+## 2. Push this folder
 
-## 3. Push this folder
+The repo is already initialized and committed on `main`. Add the remote and push:
 
 ```bash
-git remote add origin https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.git
-git branch -M main
+git remote add origin https://github.com/rajesh-patil-dev/rajesh-patil-dev.git
 git push -u origin main
 ```
 
-## 4. Check it
+If GitHub created the repo with its own initial commit, either allow-unrelated-histories
+merge or force-push this one:
 
-Open `https://github.com/YOUR_GITHUB_USERNAME` — the README renders on your profile.
+```bash
+git push -u origin main --force
+```
+
+## 3. Check it
+
+Open `https://github.com/rajesh-patil-dev` — the README renders on your profile.
 
 ## Notes
 

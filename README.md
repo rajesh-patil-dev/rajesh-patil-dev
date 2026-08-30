@@ -1,14 +1,14 @@
 <!--
   GitHub Profile README
-  Repo name MUST match your GitHub username exactly, e.g.  <username>/<username>
-  Then replace every occurrence of  YOUR_GITHUB_USERNAME  below with that username.
+  Repo name matches the GitHub username exactly:  rajesh-patil-dev/rajesh-patil-dev
+  Fill in YOUR_LINKEDIN_HANDLE / YOUR_PORTFOLIO_URL in the Connect section (or remove those badges).
 -->
 
 <h1 align="center">Hi, I'm Rajesh Patil 👋</h1>
 <h3 align="center">Senior Java Backend Developer · 12+ years · Java | Spring Boot | Microservices | AWS</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rajesh-patil-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -89,12 +89,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajesh-patil-dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-patil-dev&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-patil-dev&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -136,5 +136,5 @@
 
 <!--
   Tip: keep this file at the repo root as README.md.
-  GitHub renders it on your profile at  https://github.com/YOUR_GITHUB_USERNAME
+  GitHub renders it on your profile at  https://github.com/rajesh-patil-dev
 -->
