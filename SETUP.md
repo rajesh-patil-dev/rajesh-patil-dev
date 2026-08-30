@@ -38,7 +38,13 @@ Open `https://github.com/rajesh-patil-dev` — the README renders on your profil
 
 ## Notes
 
-- The stats widgets (`github-readme-stats`, `github-readme-streak-stats`) and the
-  `komarev` view counter are third-party image services. They render as images
-  only; nothing runs in your repo.
+- The stats widgets (`github-profile-summary-cards`, `github-readme-streak-stats`)
+  and the `komarev` view counter are third-party image services. They render as
+  images only; nothing runs in your repo.
+- The more common `github-readme-stats.vercel.app` demo instance was returning
+  `503 DEPLOYMENT_PAUSED`, so this README uses `github-profile-summary-cards`
+  instead. If you want the classic github-readme-stats cards, deploy your own
+  instance: fork https://github.com/anuraghazra/github-readme-stats, deploy it to
+  Vercel with a `PAT_1` GitHub token env var, then point the image URLs at your
+  own `*.vercel.app` domain.
 - No personal contact details (phone, email, street address) are included by design.
