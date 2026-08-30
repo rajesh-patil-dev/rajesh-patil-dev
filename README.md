@@ -89,8 +89,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajesh-patil-dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-patil-dev&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/rajesh-patil-dev?label=Followers&style=for-the-badge&logo=github&color=0e75b6" alt="Followers" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-patil-dev&theme=default" alt="Profile summary" />
+</p>
+
+<p align="center">
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-patil-dev&theme=default" alt="Stats" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-patil-dev&theme=default" alt="Repos per language" />
 </p>
 
 <p align="center">
